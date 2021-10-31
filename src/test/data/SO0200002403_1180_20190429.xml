@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HEADERSECTION VERSION="2.2" SENDER="BSB + Partner">
+        <ALIAS />
+    </HEADERSECTION>
+    <DATASECTION>
+        <GB2AV.Mutationstabelle BID = "xxx" KIND="FULL">
+            <GB2AV.Grundstuecksbeschrieb.Gebaeude TID ="xz4937c48c0000033d">
+                <GWR_EGID>331022</GWR_EGID>
+                <istProjektiert>false</istProjektiert>
+                <istUnterirdisch>false</istUnterirdisch>
+                <Nummer>1</Nummer>
+                <Gebaeudeart>Gebaeude</Gebaeudeart>
+                <Flaechenmass>332.0</Flaechenmass>
+                <Adresse>
+                    <GB2AV.GebaeudeeingangAdresse>
+                        <Strasse>G&#xe4;ustrasse</Strasse>
+                        <Hausnummer>58</Hausnummer>
+                        <PLZ>9999</PLZ>
+                        <Ortschaft>Kestenholz</Ortschaft>
+                        <GWR_EDID>0</GWR_EDID>
+                    </GB2AV.GebaeudeeingangAdresse>
+                </Adresse>
+            </GB2AV.Grundstuecksbeschrieb.Gebaeude>
+            <GB2AV.Grundstuecksbeschrieb.Gebaeude TID ="xz4937c48c00000347">
+                <istProjektiert>false</istProjektiert>
+                <istUnterirdisch>false</istUnterirdisch>
+                <Gebaeudeart>Gebaeude</Gebaeudeart>
+                <Flaechenmass>81.0</Flaechenmass>
+                <Adresse>
+                    <GB2AV.GebaeudeeingangAdresse>
+                        <Strasse>G&#xe4;ustrasse</Strasse>
+                        <Hausnummer>58a</Hausnummer>
+                        <PLZ>9999</PLZ>
+                        <Ortschaft>Kestenholz</Ortschaft>
+                    </GB2AV.GebaeudeeingangAdresse>
+                </Adresse>
+            </GB2AV.Grundstuecksbeschrieb.Gebaeude>
+            <GB2AV.Mutationstabelle.Liegenschaft TID ="xz4937c5860000168f">
+                <Flaechenmass>602</Flaechenmass>
+                <GrundstueckArt>Liegenschaft</GrundstueckArt>
+                <Gemeinde>
+                    <GB2AV.Gemeinde>
+                        <Name>Kestenholz</Name>
+                        <BFSNr>2403</BFSNr>
+                    </GB2AV.Gemeinde>
+                </Gemeinde>
+                <letzteVollzogeneMutation>
+                    <GB2AV.MutationsNummer>
+                        <Nummer>1180</Nummer>
+                        <NBIdent>SO0200002403</NBIdent>
+                    </GB2AV.MutationsNummer>
+                </letzteVollzogeneMutation>
+                <Nummer>
+                    <GB2AV.GrundstueckNummer>
+                        <EGRID>CH580232067508</EGRID>
+                        <Nummer>378</Nummer>
+                        <SubKreis>SO0200002403</SubKreis>
+                    </GB2AV.GrundstueckNummer>
+                </Nummer>
+                <GBPlaene>
+                    <GB2AV.GBPlan>
+                        <Nummer>4</Nummer>
+                        <NBIdent>SO0200002403</NBIdent>
+                    </GB2AV.GBPlan>
+                </GBPlaene>
+                <Flurnamen>
+                    <GB2AV.Flurname>
+                        <Name>Unterdorf</Name>
+                    </GB2AV.Flurname>
+                </Flurnamen>
+                <BodbdAnteil>
+                    <GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                        <Art>Gebaeude</Art>
+                        <Flaechenmass>299.0</Flaechenmass>
+                        <ArtBezeichnung>Geb&#xe4;ude</ArtBezeichnung>
+                    </GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                    <GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                        <Art>befestigt.uebrige_befestigte</Art>
+                        <Flaechenmass>184.0</Flaechenmass>
+                        <ArtBezeichnung>Geb&#xe4;udeerschliessung</ArtBezeichnung>
+                    </GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                    <GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                        <Art>humusiert.Gartenanlage</Art>
+                        <Flaechenmass>119.0</Flaechenmass>
+                        <ArtBezeichnung>Gartenanlage</ArtBezeichnung>
+                    </GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                </BodbdAnteil>
+            </GB2AV.Mutationstabelle.Liegenschaft>
+            <GB2AV.Mutationstabelle.Liegenschaft TID ="xz5ca49c7417fc002c">
+                <Flaechenmass>550</Flaechenmass>
+                <GrundstueckArt>Liegenschaft</GrundstueckArt>
+                <Gemeinde>
+                    <GB2AV.Gemeinde>
+                        <Name>Kestenholz</Name>
+                        <BFSNr>2403</BFSNr>
+                    </GB2AV.Gemeinde>
+                </Gemeinde>
+                <letzteVollzogeneMutation>
+                    <GB2AV.MutationsNummer>
+                        <Nummer>1180</Nummer>
+                        <NBIdent>SO0200002403</NBIdent>
+                    </GB2AV.MutationsNummer>
+                </letzteVollzogeneMutation>
+                <Nummer>
+                    <GB2AV.GrundstueckNummer>
+                        <EGRID>CH311279307770</EGRID>
+                        <Nummer>2046</Nummer>
+                        <SubKreis>SO0200002403</SubKreis>
+                    </GB2AV.GrundstueckNummer>
+                </Nummer>
+                <GBPlaene>
+                    <GB2AV.GBPlan>
+                        <Nummer>4</Nummer>
+                        <NBIdent>SO0200002403</NBIdent>
+                    </GB2AV.GBPlan>
+                </GBPlaene>
+                <Flurnamen>
+                    <GB2AV.Flurname>
+                        <Name>Unterdorf</Name>
+                    </GB2AV.Flurname>
+                </Flurnamen>
+                <BodbdAnteil>
+                    <GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                        <Art>Gebaeude</Art>
+                        <Flaechenmass>114.0</Flaechenmass>
+                        <ArtBezeichnung>Geb&#xe4;ude</ArtBezeichnung>
+                    </GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                    <GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                        <Art>befestigt.uebrige_befestigte</Art>
+                        <Flaechenmass>391.0</Flaechenmass>
+                        <ArtBezeichnung>Geb&#xe4;udeerschliessung</ArtBezeichnung>
+                    </GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                    <GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                        <Art>humusiert.Gartenanlage</Art>
+                        <Flaechenmass>45.0</Flaechenmass>
+                        <ArtBezeichnung>Gartenanlage</ArtBezeichnung>
+                    </GB2AV.Grundstuecksbeschrieb.BodbdAnteil>
+                </BodbdAnteil>
+                <Zugang>
+                    <GB2AV.Mutationstabelle.Abschnitt>
+                        <Flaechenmass>550</Flaechenmass>
+                        <von>
+                            <GB2AV.GrundstueckNummer>
+                                <EGRID>CH580232067508</EGRID>
+                                <Nummer>378</Nummer>
+                                <SubKreis>SO0200002403</SubKreis>
+                            </GB2AV.GrundstueckNummer>
+                        </von>
+                    </GB2AV.Mutationstabelle.Abschnitt>
+                </Zugang>
+            </GB2AV.Mutationstabelle.Liegenschaft>
+            <GB2AV.Grundstuecksbeschrieb.GrundstueckGebaeude TID ="x1">
+                <Gebaeude REF="xz4937c48c0000033d"/>
+                <Grundstueck REF="xz4937c5860000168f"/>
+                <Flaechenmass>218.0</Flaechenmass>
+            </GB2AV.Grundstuecksbeschrieb.GrundstueckGebaeude>
+            <GB2AV.Grundstuecksbeschrieb.GrundstueckGebaeude TID ="x2">
+                <Gebaeude REF="xz4937c48c0000033d"/>
+                <Grundstueck REF="xz5ca49c7417fc002c"/>
+                <Flaechenmass>114.0</Flaechenmass>
+            </GB2AV.Grundstuecksbeschrieb.GrundstueckGebaeude>
+            <GB2AV.Grundstuecksbeschrieb.GrundstueckGebaeude TID ="x3">
+                <Gebaeude REF="xz4937c48c00000347"/>
+                <Grundstueck REF="xz4937c5860000168f"/>
+                <Flaechenmass>81.0</Flaechenmass>
+            </GB2AV.Grundstuecksbeschrieb.GrundstueckGebaeude>
+            <GB2AV.Mutationstabelle.AVMutation TID ="xz5ca482be17fc0000">
+                <Beschrieb>Parzellierung</Beschrieb>
+                <DateinamePlan>SO0200002403_1180_20190429.pdf</DateinamePlan>
+                <EndeTechnBereit>2019-04-29</EndeTechnBereit>
+                <istProjektMutation>Normal</istProjektMutation>
+                <MutationsNummer>
+                    <GB2AV.MutationsNummer>
+                        <Nummer>1180</Nummer>
+                        <NBIdent>SO0200002403</NBIdent>
+                    </GB2AV.MutationsNummer>
+                </MutationsNummer>
+            </GB2AV.Mutationstabelle.AVMutation>
+            <GB2AV.Mutationstabelle.AVMutationBetroffeneGrundstuecke TID ="x4">
+                <AVMutation REF="xz5ca482be17fc0000"></AVMutation>
+                <betroffeneGrundstuecke REF="xz4937c5860000168f"></betroffeneGrundstuecke>
+            </GB2AV.Mutationstabelle.AVMutationBetroffeneGrundstuecke>
+            <GB2AV.Mutationstabelle.AVMutationBetroffeneGrundstuecke TID ="x5">
+                <AVMutation REF="xz5ca482be17fc0000"></AVMutation>
+                <betroffeneGrundstuecke REF="xz5ca49c7417fc002c"></betroffeneGrundstuecke>
+            </GB2AV.Mutationstabelle.AVMutationBetroffeneGrundstuecke>
+        </GB2AV.Mutationstabelle>
+    </DATASECTION>
+</TRANSFER>

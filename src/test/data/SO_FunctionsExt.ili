@@ -17,5 +17,7 @@ CONTRACTED MODEL SO_FunctionsExt
     FUNCTION isHttpResource (url: TEXT; prefix: TEXT): BOOLEAN;
         
     FUNCTION RuntimeDummy(value: TEXT): BOOLEAN;
+    
+    FUNCTION MatchesFilename(value: TEXT): BOOLEAN;
 
 END SO_FunctionsExt.
