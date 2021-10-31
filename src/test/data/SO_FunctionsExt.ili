@@ -1,0 +1,21 @@
+INTERLIS 2.3;
+CONTRACTED MODEL SO_FunctionsExt
+  AT "mailto:stefan.ziegler@bd.so.ch" VERSION "2019-12-04" =
+    
+    /**
+    * Allgemeine Funktionen
+    */
+    
+    !!@ fn.description = "Prüft mittels Status-Code, ob eine HTTP-Ressource vorhanden ist.
+    !!@ Falls der Status-Code grösser gleich 200 und kleiner gleich 399 sein,
+    !!@ ist der Rückgabewert der Funktion true.";
+    !!@ fn.param = "url Die URL der zu prüfenden HTTP-Ressource.";
+    !!@ fn.param = "prefix Beliebiger URL-Prefix.";
+    !!@ fn.return = "True, falls die Ressource existiert. False, falls die Ressource
+    !!@ nicht existiert.";
+    !!@ fn.since = "2019-01-27";
+    FUNCTION isHttpResource (url: TEXT; prefix: TEXT): BOOLEAN;
+        
+    FUNCTION RuntimeDummy(value: TEXT): BOOLEAN;
+
+END SO_FunctionsExt.
